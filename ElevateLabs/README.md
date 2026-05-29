@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a modern responsive landing page developed using HTML5 and CSS3 as part of a Web Development Internship Task. The website is designed to provide a clean user experience across desktop, tablet, and mobile devices.
+This project is a modern responsive landing page developed using HTML5 and CSS3 as part of a Web Development Internship Task. The website is designed to provide a clean and engaging user experience across desktop, tablet, and mobile devices.
 
 ## Features
 
@@ -26,7 +26,6 @@ This project is a modern responsive landing page developed using HTML5 and CSS3 
 
 ## Project Structure
 
-```text
 ElevateLabs/
 │
 ├── index.html
@@ -35,7 +34,6 @@ ElevateLabs/
 ├── README.md
 │
 └── screenshots/
-```
 
 ## Learning Outcomes
 
@@ -50,4 +48,4 @@ Through this project, I gained hands-on experience with:
 
 ## Author
 
-Mythri Reddy
+S. Ganga Hema Mythri
