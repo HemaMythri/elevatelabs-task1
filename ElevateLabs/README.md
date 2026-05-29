@@ -28,6 +28,7 @@ This project is a modern responsive landing page developed using HTML5 and CSS3 
 
 ## Project Structure
 
+```text
 ElevateLabs/
 │
 ├── index.html
@@ -41,7 +42,7 @@ ElevateLabs/
     ├── desktop-view(3).png
     ├── mobile-view(1).png
     └── mobile-view(2).png
-
+```
 ## Learning Outcomes
 
 Through this project, I gained hands-on experience with:
