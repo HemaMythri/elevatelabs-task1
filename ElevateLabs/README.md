@@ -2,18 +2,19 @@
 
 ## Project Overview
 
-This project is a modern responsive landing page developed using HTML5 and CSS3 as part of a Web Development Internship Task.
+This project is a modern responsive landing page developed using HTML5 and CSS3 as part of a Web Development Internship Task. The website is designed to provide a clean user experience across desktop, tablet, and mobile devices.
 
 ## Features
 
 * Responsive navigation bar
 * Hero section with image and call-to-action button
-* About section
+* About Us section
 * Features section using CSS Grid
 * Statistics section
-* Call-to-action section
-* Footer with social links
-* Mobile responsive design using Media Queries
+* Call-to-Action (CTA) section
+* Footer with social media links
+* Mobile-friendly design using Media Queries
+* Smooth hover effects and modern UI styling
 
 ## Technologies Used
 
@@ -23,9 +24,29 @@ This project is a modern responsive landing page developed using HTML5 and CSS3 
 * CSS Grid
 * Media Queries
 
-## Outcome
+## Project Structure
 
-This project demonstrates responsive web design principles and modern front-end development practices.
+```text
+ElevateLabs/
+│
+├── index.html
+├── style.css
+├── hero.jpg
+├── README.md
+│
+└── screenshots/
+```
+
+## Learning Outcomes
+
+Through this project, I gained hands-on experience with:
+
+* HTML page structure
+* CSS styling and layouts
+* Flexbox and Grid systems
+* Responsive web design
+* Media Queries
+* GitHub project management
 
 ## Author
 
